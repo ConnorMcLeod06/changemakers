@@ -1,0 +1,41 @@
+  <!-- About Section -->
+  <div class="w3-container w3-padding-32" id="about">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">About</h3>
+    <p>Although Berkeley is a competitive and top public school in the nation and world, we strive to make our campus an open and lively environment for all our studets. The co-founders were part of Berkeley's Pre-college Changemakers program and noticed a lack of information related to social events. We hope to make these events, both educational and non-educational, more accessible for Berkeley students all around campus. If you would like to notify us of an event you would like us to add, please contact us via our contact page.
+    </p>
+  </div>
+
+ 
+     <div class="w3-row-padding w3-grayscale">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="/w3images/team2.jpg" alt="John" style="width:100%">
+      <h3>Connor McLeod</h3>
+      <p class="w3-opacity">Co-Founder</p>
+      <p>About me</p>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="/w3images/team1.jpg" alt="Jane" style="width:100%">
+      <h3>Delaney</h3>
+      <p class="w3-opacity">Co-Founder</p>
+      <p>About me</p>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="/w3images/team3.jpg" alt="Mike" style="width:100%">
+      <h3>Soph</h3>
+      <p class="w3-opacity">Co-Founder</p>
+      <p>About me</p>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="/w3images/team4.jpg" alt="Dan" style="width:100%">
+      <h3>Aashi</h3>
+      <p class="w3-opacity">Co-Founder</p>
+      <p>About me</p>
+    </div>
+     <div class="w3-row-padding w3-grayscale">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="/w3images/team2.jpg" alt="John" style="width:100%">
+      <h3>Ethan</h3>
+      <p class="w3-opacity">Co-Founder</p>
+      <p>About me</p>
+    </div>
+  </div>
