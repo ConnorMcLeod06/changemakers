@@ -1,0 +1,58 @@
+ <!-- Event Section -->
+  <div class="w3-container w3-padding-32" id="projects">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Events</h3>
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Event 1</div>
+        <img src="https://engineering.berkeley.edu/wp-content/uploads/2020/02/9.0_Events1_agv_099a-scaled.jpg" alt="House" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Event 2</div>
+        <img src="https://berkeleycollege.edu/newsroom/images/WST_Food.jpg" alt="House" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Event 3</div>
+        <img src="https://berkeleyevents.com/wp-content/uploads/2022/05/Berkeley-Events-Social-3.png" alt="House" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Event 4</div>
+        <img src="https://engineering.berkeley.edu/wp-content/uploads/2020/02/2.6.0_AdmissionsEvents1_agv_080a-scaled.jpg" alt="House" style="width:100%">
+      </div>
+    </div>
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Event 5</div>
+        <img src="https://bisp.berkeley.edu/sites/default/files/2021-01/VOICES.jpg" alt="House" style="width:99%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Event 6</div>
+        <img src="https://engineering.berkeley.edu/wp-content/uploads/2020/02/2.4.0_Visit_ape_249b-scaled.jpg" alt="House" style="width:99%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Event 7</div>
+        <img src="https://www.visitberkeley.com/imager/files_idss_com/C199/7ca1bff7-7c9c-49c7-a166-0c13eb9f182b_fb64fc87657b8f29ce5e49782861acc4.jpg" alt="House" style="width:99%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Event 8</div>
+        <img src="https://images.squarespace-cdn.com/content/v1/5a3f33cff6576e1abec0ef6b/1553913088338-YN6KTLCHAT5IBE16M4XV/image-asset.jpeg" alt="House" style="width:99%">
+      </div>
+    </div>
+  </div>
